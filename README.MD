@@ -1,1 +1,4 @@
-## Animation app
+## card app
+
+애니메이션 동작.
+많은 카드 만들기.
